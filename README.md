@@ -57,9 +57,9 @@ _Bachelor of Computer Science – Artificial Intelligence_
 ### 💻 Projects
 
 - 🌾 **Fine-tuning NLP for Rice Plant Disease Recognition**  
-  [🔗 GitHub](https://github.com/PuxHocDL)  
+  [🔗 GitHub]([https://github.com/PuxHocDL](https://github.com/PuxHocDL/Rice-Plant-Assistant-For-Farmers))  
 - 🧠 **Early Detection of Mental Disorders Risk (MentalRisk2025)**  
-  [🔗 GitHub](https://github.com/PuxHocDL)
+  [🔗 GitHub]([https://github.com/PuxHocDL](https://github.com/PuxHocDL/Early-detection-of-mental-disorders-risk-in-Spanish))
 
 ---
 
