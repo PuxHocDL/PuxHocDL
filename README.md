@@ -22,7 +22,6 @@ With a strong foundation in mathematics and a passion for natural language proce
 _Bachelor of Computer Science – Artificial Intelligence_  
 📅 2023 – 2026  
 📌 GPA: **9.03/10** (≈ **3.76/4.0**)  
-🎓 Student ID: 23521213
 
 ---
 
@@ -79,6 +78,14 @@ _Bachelor of Computer Science – Artificial Intelligence_
 
 ---
 
+### 📊 My GitHub Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuxHocDL&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -86,6 +93,7 @@ _Bachelor of Computer Science – Artificial Intelligence_
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuxHocDL&theme=gruvbox" alt="GitHub Streak" />
 </p>
+
 
 ---
 
