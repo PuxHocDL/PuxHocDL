@@ -21,7 +21,7 @@ With a strong foundation in mathematics and a passion for natural language proce
 **University of Information Technology – VNU-HCM**  
 _Bachelor of Computer Science – Artificial Intelligence_  
 📅 2023 – Now
-📌 GPA: **9.03/10** (≈ **3.76/4.0**)  
+📌 GPA: **9.0/10** (≈ **3.76/4.0**)  
 
 ---
 
