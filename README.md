@@ -7,15 +7,12 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/PuxHocDL">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuxHocDL&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="PuxHocDL's GitHub Stats" height="160"/>
-  </a>
-  <a href="https://github.com/PuxHocDL">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuxHocDL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="160"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PuxHocDL&theme=nightowl" alt="PuxHocDL's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PuxHocDL&theme=nightowl" alt="Top Languages" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuxHocDL&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" height="140" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuxHocDL&theme=nightowl&hide_border=true" alt="Streak" height="150" />
 </div>
 
 <br/>
@@ -47,9 +44,9 @@
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white) |
 | **AI / Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **LLM & RAG Ecosystem** | ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=flat-square&logo=llama) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) |
+| **LLM & RAG Ecosystem** | ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-black?style=flat-square&logo=llama) ![Unsloth](https://img.shields.io/badge/Unsloth-Fast_FineTuning-black?style=flat-square) ![Serper](https://img.shields.io/badge/Serper-Search_Tool-0052CC?style=flat-square&logo=google) <br> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white) |
 | **Databases & Vector** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-black?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=flat-square) |
-| **Web & DevOps** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Cloud & DevOps** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
