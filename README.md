@@ -6,16 +6,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PuxHocDL&theme=nightowl" alt="PuxHocDL's GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PuxHocDL&theme=nightowl" alt="Top Languages" />
-</div>
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuxHocDL&theme=nightowl&hide_border=true" alt="Streak" height="150" />
-</div>
 
-<br/>
 
 <div align="center">
   <a href="mailto:nguyenxuanphuc010205@gmail.com">
@@ -97,7 +88,16 @@ I actively contribute to the NLP research community. Here are some of my recent 
 * 🎓 **GPA: 9.02/10** - Excellent Academic Performance at UIT.
 
 ---
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PuxHocDL&theme=nightowl" alt="PuxHocDL's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PuxHocDL&theme=nightowl" alt="Top Languages" />
+</div>
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuxHocDL&theme=nightowl&hide_border=true" alt="Streak" height="150" />
+</div>
 
+<br/>
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
