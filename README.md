@@ -85,7 +85,7 @@ I actively contribute to the NLP research community. Here are some of my recent 
 * 🥉 **3rd Place**, CRAC 2025 Shared Task - Multilingual Coreference Resolution (**EMNLP**)
 * 🥈 **Silver Medal**, National Student Olympiad 2024 - **Algebra**
 * 🎖 **Honorable Mention**, National Student Olympiad 2025 - **Algebra & Calculus**
-* 🎓 **GPA: 9.02/10** - Excellent Academic Performance at UIT.
+
 
 ---
 <div align="center">
