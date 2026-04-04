@@ -66,15 +66,6 @@ I actively contribute to the NLP research community. Here are some of my recent 
 * Developed a two-stage recommender for baby products.
 * Optimized Precision@10 to **10.10%** using a hybrid strategy of exploration and repurchase prediction.
 
-#### 🌾 **Rice Plant Disease Recognition**
-* **Tech:** `NLP` `Computer Vision`
-* Fine-tuning models to assist farmers in early disease detection.
-* [🔗 View Project](https://github.com/PuxHocDL/Rice-Plant-Assistant-For-Farmers)
-
-#### 🧠 **Mental Disorder Risk Detection**
-* **Tech:** `Deep Learning` `Spanish NLP`
-* Early detection of mental disorders risk in Spanish texts (MentalRisk2025).
-* [🔗 View Project](https://github.com/PuxHocDL/Early-detection-of-mental-disorders-risk-in-Spanish)
 
 ---
 
