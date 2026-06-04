@@ -41,11 +41,11 @@ Large Language Models · Retrieval-Augmented Generation · Multi-Agent Systems �
 
 ### Honors
 
-- 🥇 1st Place — QIAS 2025 Shared Task: Islamic Knowledge Assessment (ArabicNLP)
-- 🥈 2nd Place — QIAS 2025 Shared Task: Islamic Inheritance Reasoning
-- 🥉 3rd Place — CRAC 2025 Shared Task: Multilingual Coreference Resolution (EMNLP)
-- 🥈 Silver Medal — National Student Olympiad 2024 (Algebra)
-- 🎖 Honorable Mention — National Student Olympiad 2025 (Algebra & Calculus)
+- **1st Place** — QIAS 2025 Shared Task: Islamic Knowledge Assessment (ArabicNLP)
+- **2nd Place** — QIAS 2025 Shared Task: Islamic Inheritance Reasoning
+- **3rd Place** — CRAC 2025 Shared Task: Multilingual Coreference Resolution (EMNLP)
+- **Silver Medal** — National Student Olympiad 2024 (Algebra)
+- **Honorable Mention** — National Student Olympiad 2025 (Algebra & Calculus)
 
 ---
 
@@ -54,5 +54,3 @@ Large Language Models · Retrieval-Augmented Generation · Multi-Agent Systems �
 Python · C++ · PyTorch · LangChain · LlamaIndex · PostgreSQL · Docker · FastAPI · Google Cloud
 
 ---
-
-[Gmail](mailto:nguyenxuanphuc010205@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nguyen-xuan-phuc-uit/) · [GitHub](https://github.com/PuxHocDL)
