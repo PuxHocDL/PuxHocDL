@@ -6,7 +6,7 @@ AI Researcher & Engineer · UIT · Ho Chi Minh City
 
 ### Research Interests
 
-Large Language Models · Retrieval-Augmented Generation · Multi-Agent Systems · NeuroEvolution
+Large Language Models · Retrieval-Augmented Generation · Multi-Agent Systems · NeuroEvolution · Entities Extract
 
 ---
 
