@@ -1,6 +1,6 @@
 # Nguyễn Xuân Phúc
 
-AI Researcher & Engineer · UIT · Ho Chi Minh City
+AI Researcher & Engineer · UIT · Thu Duc -  Ho Chi Minh City
 
 ---
 
