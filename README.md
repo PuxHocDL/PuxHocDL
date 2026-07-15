@@ -5,7 +5,6 @@ AI Researcher & Engineer · University of Information Technology (UIT) · Thu Du
 <p align="center">
 
 <a href="https://github.com/PuxHocDL">
-<img src="https://img.shields.io/badge/GitHub-PuxHocDL-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <img src="https://img.shields.io/github/followers/PuxHocDL?style=for-the-badge&logo=github&label=Followers"/>
@@ -108,10 +107,9 @@ Designed a two-stage recommendation system for baby products, achieving **Precis
 ## Contact
 
 * GitHub: https://github.com/PuxHocDL
-* Email: [your.email@example.com](mailto:your.email@example.com)
-* Google Scholar: Coming soon
-* Hugging Face: Coming soon
-* LinkedIn: Coming soon
+* Email: [23521213@gm.uit.edu.vn](23521213@gm.uit.edu.vn)
+* Google Scholar: [Link](https://scholar.google.com/citations?hl=en&user=C1ldBSkAAAAJ)
+* LinkedIn: [Link](https://www.linkedin.com/in/nguyen-xuan-phuc-uit/)
 
 ---
 
