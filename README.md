@@ -1,12 +1,29 @@
 # Nguyễn Xuân Phúc
 
-AI Researcher & Engineer · UIT · Thu Duc -  Ho Chi Minh City
+AI Researcher & Engineer · UIT · Thu Duc - Ho Chi Minh City
 
 ---
 
 ### Research Interests
 
-Large Language Models · Retrieval-Augmented Generation · Multi-Agent Systems · NeuroEvolution · Entities Extract
+Large Language Models · Retrieval-Augmented Generation · Multi-Agent Systems · NeuroEvolution · Entity Extraction
+
+---
+
+### GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+</p>
 
 ---
 
@@ -54,3 +71,9 @@ Large Language Models · Retrieval-Augmented Generation · Multi-Agent Systems �
 Python · C++ · PyTorch · LangChain · LlamaIndex · PostgreSQL · Docker · FastAPI · Google Cloud
 
 ---
+
+### Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
