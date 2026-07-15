@@ -1,38 +1,118 @@
-### GitHub Statistics
+# Nguyễn Xuân Phúc
+
+AI Researcher & Engineer · University of Information Technology (UIT) · Thu Duc City, Ho Chi Minh City, Vietnam
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PuxHocDL&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuxHocDL&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PuxHocDL&theme=github-dark&hide_border=true"/>
-</p>
+<a href="https://github.com/PuxHocDL">
+<img src="https://img.shields.io/badge/GitHub-PuxHocDL-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PuxHocDL&theme=github_dark"/>
-</p>
+<img src="https://img.shields.io/github/followers/PuxHocDL?style=for-the-badge&logo=github&label=Followers"/>
 
----
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PuxHocDL&theme=github-dark&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=PuxHocDL&style=for-the-badge&label=Profile%20Views"/>
+<p align="center"> <img src="https://img.shields.io/github/last-commit/PuxHocDL/PuxHocDL?style=flat-square"/> <img src="https://img.shields.io/github/commit-activity/y/PuxHocDL/PuxHocDL?style=flat-square"/> <img src="https://img.shields.io/github/repo-size/PuxHocDL/PuxHocDL?style=flat-square"/> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=PuxHocDL&theme=github-dark&hide_border=true"/> </p>
 </p>
 
 ---
 
-### GitHub Trophies
+## Research Interests
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PuxHocDL&theme=onestar&no-frame=true&row=1&column=6"/>
-</p>
+* Large Language Models
+* Retrieval-Augmented Generation
+* Multi-Agent Systems
+* NeuroEvolution
+* Entity Extraction
+* Information Retrieval
+* Natural Language Processing
 
 ---
 
-### Profile Views
+## Recent News
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PuxHocDL&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+* **Jan 2026** — *EduPulse* accepted to **EACL 2026** (Industry Track)
+* **Nov 2025** — **1st Place** at **QIAS 2025 Shared Task** (ArabicNLP @ EMNLP 2025)
+* **Oct 2025** — KAN Optimization paper accepted to **SOICT 2025**
+
+---
+
+## Publications
+
+| Venue                 | Title                                                     | Role         | Notes                                        |
+| --------------------- | --------------------------------------------------------- | ------------ | -------------------------------------------- |
+| **EACL 2026**         | EduPulse: Practical LLM-Enhanced Opinion Mining           | First Author | Hybrid LLM + lightweight model; 92% accuracy |
+| **EMNLP 2025**        | PuxAI at QIAS 2025: Multi-Agent RAG for Islamic Reasoning | First Author | 1st Place                                    |
+| **SOICT 2025**        | Optimization of KANs via NEAT                             | Co-Author    | Gradient-free evolutionary optimization      |
+| **CRAC @ EMNLP 2025** | Few-Shot Coreference Resolution                           | First Author | 3rd Place                                    |
+
+---
+
+## Selected Projects
+
+### UIT-TiFo — Academic Advising RAG Chatbot
+
+`LlamaIndex · FastAPI · ChromaDB`
+
+Built a Retrieval-Augmented Generation chatbot for academic advising with contextual retrieval and domain-aware filtering to reduce hallucinations on institutional documents.
+
+### E-Commerce Recommendation System
+
+`CatBoost · EASE · YetiRank`
+
+Designed a two-stage recommendation system for baby products, achieving **Precision@10 = 10.10%** through hybrid exploration and repurchase modeling.
+
+---
+
+## Honors
+
+* **1st Place** — QIAS 2025 Shared Task: Islamic Knowledge Assessment
+* **2nd Place** — QIAS 2025 Shared Task: Islamic Inheritance Reasoning
+* **3rd Place** — CRAC 2025 Shared Task (EMNLP)
+* **Silver Medal** — National Student Olympiad 2024 (Algebra)
+* **Honorable Mention** — National Student Olympiad 2025 (Algebra & Calculus)
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql)
+
+### Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square)
+
+### LLM & RAG
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E56CF?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B3FD6?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0099CC?style=flat-square)
+
+### Backend & Deployment
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square\&logo=googlecloud)
+
+---
+
+## Contact
+
+* GitHub: https://github.com/PuxHocDL
+* Email: [your.email@example.com](mailto:your.email@example.com)
+* Google Scholar: Coming soon
+* Hugging Face: Coming soon
+* LinkedIn: Coming soon
+
+---
+
+*"Research is turning curiosity into reproducible knowledge."*
