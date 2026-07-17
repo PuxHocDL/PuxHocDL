@@ -28,25 +28,6 @@ AI Researcher & Engineer · University of Information Technology (UIT) · Thu Du
 
 ---
 
-## Recent News
-
-* **Jan 2026** — *EduPulse* accepted to **EACL 2026** (Industry Track)
-* **Nov 2025** — **1st Place** at **QIAS 2025 Shared Task** (ArabicNLP @ EMNLP 2025)
-* **Oct 2025** — KAN Optimization paper accepted to **SOICT 2025**
-
----
-
-## Publications
-
-| Venue                 | Title                                                     | Role         | Notes                                        |
-| --------------------- | --------------------------------------------------------- | ------------ | -------------------------------------------- |
-| **EACL 2026**         | EduPulse: Practical LLM-Enhanced Opinion Mining           | First Author | Hybrid LLM + lightweight model; 92% accuracy |
-| **EMNLP 2025**        | PuxAI at QIAS 2025: Multi-Agent RAG for Islamic Reasoning | First Author | 1st Place                                    |
-| **SOICT 2025**        | Optimization of KANs via NEAT                             | Co-Author    | Gradient-free evolutionary optimization      |
-| **CRAC @ EMNLP 2025** | Few-Shot Coreference Resolution                           | First Author | 3rd Place                                    |
-
----
-
 ## Selected Projects
 
 ### UIT-TiFo — Academic Advising RAG Chatbot
