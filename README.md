@@ -11,8 +11,7 @@ AI Researcher & Engineer · University of Information Technology (UIT) · Thu Du
 
 <img src="https://komarev.com/ghpvc/?username=PuxHocDL&style=for-the-badge&label=Profile%20Views"/>
 <p align="center"> <img src="https://img.shields.io/github/last-commit/PuxHocDL/PuxHocDL?style=flat-square"/> <img src="https://img.shields.io/github/commit-activity/y/PuxHocDL/PuxHocDL?style=flat-square"/> <img src="https://img.shields.io/github/repo-size/PuxHocDL/PuxHocDL?style=flat-square"/> </p>
-<p align="center"> <img src="https://streak-stats.demolab.com?user=PuxHocDL&theme=github-dark&hide_border=true"/> </p>
-</p>
+
 
 ---
 
