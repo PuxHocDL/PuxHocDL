@@ -27,22 +27,6 @@ AI Researcher & Engineer · University of Information Technology (UIT) · Thu Du
 
 ---
 
-## Selected Projects
-
-### UIT-TiFo — Academic Advising RAG Chatbot
-
-`LlamaIndex · FastAPI · ChromaDB`
-
-Built a Retrieval-Augmented Generation chatbot for academic advising with contextual retrieval and domain-aware filtering to reduce hallucinations on institutional documents.
-
-### E-Commerce Recommendation System
-
-`CatBoost · EASE · YetiRank`
-
-Designed a two-stage recommendation system for baby products, achieving **Precision@10 = 10.10%** through hybrid exploration and repurchase modeling.
-
----
-
 ## Honors
 
 * **1st Place** — QIAS 2025 Shared Task: Islamic Knowledge Assessment
